@@ -36,7 +36,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Suhasini P',
+            'Suha Nathan',
             {
                 font: font,
                 size: 0.5,
